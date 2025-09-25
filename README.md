@@ -5,7 +5,6 @@ Tiba Store Digital Marketing Campaign
  • Mahmoud Atef Sobhy
  • Elsayed Hassan Ibrahim Elsayed
  • Ahmed Reda Ramadan Mohamed
- • Tarek
 
 ●Project Idea
 The project is about creating a digital marketing campaign for Tiba Store to promote its cosmetics, cleaning products, and baby care items across Egypt. The goal is to increase awareness, attract more customers, and boost sales using platforms like Facebook, Instagram, TikTok, and WhatsApp Business.
@@ -19,7 +18,7 @@ The project is about creating a digital marketing campaign for Tiba Store to pro
 ●Roles and Responsibilities
 | Name | Role | Tasks 
 
-| Omar Abdelhadi Saber | Group Leader | Project management and role distribution |
+| Omar Abdelhadi Saber | Group Leader | Project management and role distribution Assigning roles & responsibilities & Ensuring deadlines are met|
 
 | Mahmoud Atef Sobhy | Creating social media content (posts, captions, ad copies) & Planning ad strategy and campaign structure & Identifying target audience & customer segments & Supporting optimization of campaigns | 
 
