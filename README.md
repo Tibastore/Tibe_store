@@ -1,12 +1,12 @@
-📢Tiba Store Digital Marketing Campaign
+# 📊 Tiba Store Digital Marketing Campaign
+Awareness project about effective digital marketing strategies to promote cosmetics, cleaning products, and baby care items across Banha using visual communication and targeted advertising.
 
-
-💡Project Idea
+💡#Project Idea
  The project focuses on developing a comprehensive digital marketing campaign for Tiba Store to promote its range of cosmetics, cleaning products, and baby care items across Banha.
 The campaign aims to increase brand awareness, attract new customers, and boost sales by leveraging major digital platforms such as Facebook, Instagram, TikTok, and WhatsApp Business.
 The strategy includes targeted content creation, ad planning, audience segmentation, and continuous performance monitoring to ensure maximum reach and impact within the Banha area.
 
-🗂Project Plan
+🗂#Project Plan
 📍 Phase 1: Requirements Analysis & Campaign Strategy
 •Understanding the brand and target market in Banha
 •Defining marketing objectives
@@ -33,13 +33,13 @@ The strategy includes targeted content creation, ad planning, audience segmentat
 •Providing recommendations for future campaigns
 
 
- 👥Team Members
+ 👥#Team Members
  • Omar Abdelhadi Saber
  • Mahmoud Atef Sobhy
  • Elsayed Hassan Ibrahim Elsayed
  • Ahmed Reda Ramadan Mohamed
  
- 🧩 Roles & Responsibilities
+ 🧩 #Roles & Responsibilities
 
  👤 **Omar Abdelhadi Saber — Group Leader**
 - Managing the project  
