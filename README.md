@@ -1,27 +1,65 @@
-Tiba Store Digital Marketing Campaign
+📢Tiba Store Digital Marketing Campaign
 
-●Team Members
+
+💡Project Idea
+ The project focuses on developing a comprehensive digital marketing campaign for Tiba Store to promote its range of cosmetics, cleaning products, and baby care items across Banha.
+The campaign aims to increase brand awareness, attract new customers, and boost sales by leveraging major digital platforms such as Facebook, Instagram, TikTok, and WhatsApp Business.
+The strategy includes targeted content creation, ad planning, audience segmentation, and continuous performance monitoring to ensure maximum reach and impact within the Banha area.
+
+🗂Project Plan
+📍 Phase 1: Requirements Analysis & Campaign Strategy
+•Understanding the brand and target market in Banha
+•Defining marketing objectives
+•Identifying audience segments
+•Selecting suitable platforms and setting KPIs
+
+
+📍 Phase 2: Content Creation & Ad Setup
+•Creating posts, captions, and ad copies
+•Designing visuals (banners, reels, posters, stories)
+•Preparing the advertising structure (ad sets, targeting, budget)
+
+
+📍 Phase 3: Campaign Launch & Monitoring
+•Launching the campaign across selected platforms
+•Tracking engagement, reach, and conversions
+•Adjusting targeting, creatives, and budget for optimization
+
+
+📍 Phase 4: Performance Analysis & Reporting
+•Collecting campaign data and insights
+•Analyzing results vs. KPIs
+•Preparing a final report
+•Providing recommendations for future campaigns
+
+
+ 👥Team Members
  • Omar Abdelhadi Saber
  • Mahmoud Atef Sobhy
  • Elsayed Hassan Ibrahim Elsayed
  • Ahmed Reda Ramadan Mohamed
-
-●Project Idea
-The project is about creating a digital marketing campaign for Tiba Store to promote its cosmetics, cleaning products, and baby care items across Egypt. The goal is to increase awareness, attract more customers, and boost sales using platforms like Facebook, Instagram, TikTok, and WhatsApp Business.
-
-●Project Plan
- • Phase 1: (Example: Requirements analysis and campaign strategy)
- • Phase 2: (Example: Content creation and ad setup)
- • Phase 3: (Example: Campaign launch and monitoring)
- • Phase 4: (Example: Performance analysis and reporting)
  
-●Roles and Responsibilities
-| Name | Role | Tasks 
+ 🧩 Roles & Responsibilities
 
-| Omar Abdelhadi Saber | Group Leader | Project management and role distribution Assigning roles & responsibilities & Ensuring deadlines are met|
+ 👤 **Omar Abdelhadi Saber — Group Leader**
+- Managing the project  
+- Assigning roles  
+- Ensuring deadlines  
 
-| Mahmoud Atef Sobhy | Creating social media content (posts, captions, ad copies) & Planning ad strategy and campaign structure & Identifying target audience & customer segments & Supporting optimization of campaigns | 
 
-| Elsayed Hassan Ibrahim Elsayed | Designing visuals for ads (banners, posters, reels, stories) & Creating logo/branding elements (blue & white theme) &Supporting presentation design with visuals & Editing images/videos for social media |
+✍️ **Mahmoud Atef Sobhy — Content Creator**
+- Creating posts, captions & ad copies  
+- Planning ad strategy  
+- Identifying target audience  
 
-| Ahmed Reda Ramadan Mohamed | Presenter / Template Designer | Designing and formatting the presentation slides & Organizing content and structuring the flow & Choosing suitable colors, fonts, and layouts & Ensuring visual consistency and professional style |
+
+🎨 **Elsayed Hassan Ibrahim Elsayed — Graphic Designer**
+- Designing visuals (banners, reels, posters)  
+- Creating branding elements  
+- Editing images & videos  
+
+
+🖥️ **Ahmed Reda Ramadan Mohamed — Presenter / Designer**
+- Designing presentation slides  
+- Organizing content flow  
+- Ensuring visual consistency
